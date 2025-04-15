@@ -1,5 +1,5 @@
 ## Aline D. Lasta 
-<p> Estudante de Ciência da Computação e Programação ☕💜<br>
+<p>Estudante de Ciência da Computação e Programação ☕<br>
 Compartilho aqui minha jornada, aqui você vai encontrar todos os meus projetos,
 desde projetos acadêmicos até criações pessoais.
 </p>
