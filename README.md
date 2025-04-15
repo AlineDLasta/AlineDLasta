@@ -1,7 +1,8 @@
 ## Aline D. Lasta 
-Estudante de Ciência da Computação e Programação ☕💜<br>
+<p> Estudante de Ciência da Computação e Programação ☕💜<br>
 Compartilho aqui minha jornada, aqui você vai encontrar todos os meus projetos,
 desde projetos acadêmicos até criações pessoais.
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aline-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
