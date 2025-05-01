@@ -10,8 +10,6 @@ desde projetos acadêmicos até criações pessoais.
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
 
-<h3 style="text-align: left;">Entre em contato comigo!</h3>
-
 <a href="mailto:diaslasta@gmail.com" target="_blank" style="margin-right: 8px;">
   <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=000000" style="height: 30px;">
 </a>
