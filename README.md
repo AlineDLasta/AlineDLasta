@@ -1,5 +1,5 @@
 
-<h4>Estudante de Ciência da Computação e Programação ☕</h4>
+<h2>Estudante de Ciência da Computação e Programação ☕</h2>
 <p>Compartilho aqui minha jornada, aqui você vai encontrar todos os meus projetos,
 desde projetos acadêmicos até criações pessoais.
 </p>
