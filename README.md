@@ -1,35 +1,31 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<h2>Estudante de Ciência da Computação e Programação ☕</h2>
-<p>Compartilho aqui minha jornada, aqui você vai encontrar todos os meus projetos,
-desde projetos acadêmicos até criações pessoais.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Aline+Dias+Lasta;I+am+a+computer+science+student;Be+Welcome!)](https://git.io/typing-svg) 
 
-<div style="display: inline-block; margin-bottom: 10px;">
-  <img align="center" alt="Aline-CSS" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Aline-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  
+<div align="center">  
+  <img width="41%" height="195px" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineDLasta&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
-<br>
 
-<div>
-  <a href="mailto:diaslasta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color=000000" style="height: 30px;">
-  </a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlineDLasta&bg_color=000000&color=1E90FF&line=1E90FF&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <a href="https://www.linkedin.com/in/aline-lasta-b456b7263/" target="_blank" style="margin-right: 8px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=000000" style="height: 30px;">
-  </a>
-
+<div align="center">
   <a href="https://www.instagram.com/ally.lasta/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000000" style="height: 30px;">
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=1E90FF" style="height: 30px;">
   </a>
 </div>
+ 
+### Main skills:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=red&labelColor=0D1117)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlineDLasta/AlineDLasta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlineDLasta/AlineDLasta/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlineDLasta/AlineDLasta/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center" >
+  <h3>I share my journey here, here you will find all my projects, from academic projects to personal creations.</h1>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+
