@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Aline+Dias+Lasta;I+am+a+computer+science+student;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Aline+Lasta;I+am+a+computer+science+student;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="41%" height="195px" 
